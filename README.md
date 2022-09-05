@@ -21,7 +21,6 @@
   <a href="https://github.com/DanielDDHM" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js"></a>
   <a href="https://github.com/DanielDDHM" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript"></a>
   <a href="https://github.com/DanielDDHM" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/React-333333?style=flat&logo=react"></a>
-  <a href="https://github.com/DanielDDHM" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"></a>
   <a href="https://github.com/DanielDDHM" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/Go-333333?style=flat&logo=Go"></a>
   </p>
 
