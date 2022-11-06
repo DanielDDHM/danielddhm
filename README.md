@@ -72,6 +72,3 @@
   <a href="https://wa.me/5571996421369" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-333333?style=flat&logo=Whatsapp"></a>
   </p>
 </details>
-
-
-<div align="center"> <img src="./assets/me.gif" width="300px"></div>
