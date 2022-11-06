@@ -10,6 +10,10 @@
 </img>
 </p>
 
+<div align="center" display=flex>
+<a href="http://www.github.com/DanielDDHM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
 <details align=center border-radius=5px border=1px solid white>
 <summary>My stacks</summary>
   
@@ -58,10 +62,6 @@
   </p>
 
 </details>
-
-<div align="center" display=flex>
-<a href="http://www.github.com/DanielDDHM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
 
 <details align=center border-radius=5px border=1px solid white>
 <summary>My Contacts</summary>
