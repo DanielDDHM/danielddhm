@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1db954&height=120&section=header"/>
+
 <div align="center"> <img src="./assets/gandalf_parrot.gif" width="30px"></div>
 
 <div align="center">
@@ -11,7 +13,7 @@
 </p>
 
 <div align="center" display=flex>
-<a href="http://www.github.com/DanielDDHM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DanielDDHM"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=1db954&background=171717&ring=1db954&fire=1db954&currStreakNum=1db954&currStreakLabel=1db954&sideNums=1db954&sideLabels=1db954&dates=1db954&hide_border=true" /></a>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1db954&height=120&section=footer"/>
