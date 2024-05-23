@@ -8,7 +8,7 @@
 </div><br>
 
 <p align=center>
-<img alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31ofew5234dvdvvgqozopf3o5wqe&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=31ofew5234dvdvvgqozopf3o5wqe&redirect=true">
+<img alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=31ofew5234dvdvvgqozopf3o5wqe&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" href="https://spotify-github-profile.vercel.app/api/view?uid=31ofew5234dvdvvgqozopf3o5wqe&redirect=true">
 </img>
 </p>
 
