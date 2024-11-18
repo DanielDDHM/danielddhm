@@ -17,6 +17,9 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielDDHM/DanielDDHM/refs/heads/output/github-snake.svg%20dist/github-snake-dark.svg" />
