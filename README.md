@@ -17,8 +17,10 @@
   </a>
 </div>
 
+<div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</div>
 
 <div align="center">
   <picture>
