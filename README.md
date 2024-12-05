@@ -17,12 +17,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=1db954&background=171717&ring=1db954&fire=1db954&currStreakNum=1db954&currStreakLabel=1db954&sideNums=1db954&sideLabels=1db954&dates=1db954&hide_border=true"/>
   </a>
 </div>
--->
 <div align="center">
-<!--START_SECTION:waka-->
-Conteúdo inicial
-<!--END_SECTION:waka-->
 </div>
+-->
 
 <div align="center">
   <picture>
